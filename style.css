@@ -28,6 +28,10 @@ body {
   align-items: center;
   margin: 40px auto;
 }
+
+span {
+  text-align: justify;
+}
 /* HEADER */
 header {
   background-color: var(--bg-color);
